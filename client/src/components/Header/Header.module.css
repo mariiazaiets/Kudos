@@ -1,0 +1,24 @@
+.Header {
+    width: 100%;
+    height: 80px;
+    background-color: #2f2f2f;
+    display: flex;
+}
+
+.HeaderLogoImg {
+    width: 80px;
+    height: 70px;
+    margin: 5px 1% 0 5%;
+}
+
+.HeaderLogoTitle {
+    width: 85px;
+    height: 68px;
+    color: white;
+    border: 1px solid white;
+    margin: 5px 0 0 -17px;
+}
+
+.HeaderLogoTitle h2 {
+    margin-left: 7px;
+}
