@@ -1,0 +1,15 @@
+.Card {
+    width: 150px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+}
+
+.CardImage {
+    width: 150px;
+    height: 150px;
+}
+
+.BrandName {
+    color: gray;
+}

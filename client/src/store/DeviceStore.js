@@ -22,6 +22,8 @@ export default class DeviceStore {
             {id: 2, name: 'Iphone 12 pro', price: 20000, rating: 5, img: 'https://www.ixbt.com/img/n1/news/2021/8/0/swappie-product-iphone-12-black_large.png'},
             {id: 3, name: 'Iphone 12 pro', price: 20000, rating: 5, img: 'https://www.ixbt.com/img/n1/news/2021/8/0/swappie-product-iphone-12-black_large.png'},
             {id: 4, name: 'Iphone 12 pro', price: 20000, rating: 5, img: 'https://www.ixbt.com/img/n1/news/2021/8/0/swappie-product-iphone-12-black_large.png'},
+            {id: 5, name: 'Iphone 11 pro', price: 20000, rating: 5, img: 'https://www.ixbt.com/img/n1/news/2021/8/0/swappie-product-iphone-12-black_large.png'},
+            {id: 6, name: 'Iphone 11 pro', price: 20000, rating: 5, img: 'https://www.ixbt.com/img/n1/news/2021/8/0/swappie-product-iphone-12-black_large.png'},
         ];
         this._selectedType = {};
         this._selectedBrand = {};
